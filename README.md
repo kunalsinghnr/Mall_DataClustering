@@ -1,6 +1,6 @@
 # Marketing_Data_CustomerSegmentation(Clustering)
 
-Welcome to my clustering project focusing on marketing campaign data! In this project, I've explored and analyzed a dataset containing valuable insights about customer behavior during marketing campaigns. The primary goal of this project was to group customers based on their association length and amount spent, revealing underlying patterns that can inform targeted marketing strategies.
+Welcome to my clustering project focusing on marketing campaign data! In this project, I've explored and analyzed a dataset containing valuable insights about customer behavior during marketing campaigns. The primary goal of this project was to group customers based on their association length and Income, revealing underlying patterns that can inform targeted marketing strategies.
 
 Project Highlights:
 Data Preprocessing: I started by cleaning and preprocessing the marketing campaign data, ensuring its quality and consistency. This step included handling missing values, outlier detection, and data normalization to prepare it for the clustering process.
